@@ -11,7 +11,7 @@ you need to download CODESYS Control for Raspberry Pi SL (free version  runs for
 
 ## Links:
 [CODESYS Development System ](https://store.codesys.com/codesys-23.html)
-https://store.codesys.com/codesys-control-for-raspberry-pi-sl.html?___store=en
+[CODESYS Control for Raspberry Pi SL](https://store.codesys.com/codesys-control-for-raspberry-pi-sl.html?___store=en)
 
 ## Important
 After install Codesys on Raspberry you need to edit the file “CODESYSControl.cfg” as following:
