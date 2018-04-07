@@ -1,6 +1,8 @@
 # CODESYS_Serial
 ## CODESYS - Raspberry - Arduino – RS232(USB)
 
+![RS232](https://user-images.githubusercontent.com/36192933/38459693-6970b904-3aad-11e8-9068-33f613c36dde.jpg)
+
 This example demonstrates how serial communication can be implemented, how ports are opened, 
 closed on Raspberry Pi to communicate with Arduino via COM Port RS232 by using CODESYS.
 
