@@ -10,7 +10,8 @@ First of all you need to download the free The CODESYS Development System (you n
 you need to download CODESYS Control for Raspberry Pi SL (free version  runs for 2h and the you need it to restart)
 
 ## Links:
-[CODESYS Development System ](https://store.codesys.com/codesys-23.html)//
+[CODESYS Development System ](https://store.codesys.com/codesys-23.html)
+
 [CODESYS Control for Raspberry Pi SL](https://store.codesys.com/codesys-control-for-raspberry-pi-sl.html?___store=en)
 
 ## Important
