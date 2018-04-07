@@ -18,8 +18,9 @@ you need to download CODESYS Control for Raspberry Pi SL (free version  runs for
 After install Codesys on Raspberry you need to edit the file “CODESYSControl.cfg” as following:
 sudo nano /etc/CODESYSControl.cfg 
 
-[SysCom]
-Linux.Devicefile=/dev/ttyACM 
-portnum := COM.SysCom.SYS_COMPORT1
-
-sudo /etc/init.d/codesyscontrol restart
+[SysCom]<br />
+<br />
+Linux.Devicefile=/dev/ttyACM <br />
+portnum := COM.SysCom.SYS_COMPORT1<br />
+<br />
+sudo /etc/init.d/codesyscontrol restart<br />
