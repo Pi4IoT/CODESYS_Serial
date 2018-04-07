@@ -23,5 +23,5 @@ sudo nano /etc/CODESYSControl.cfg
 Linux.Devicefile=/dev/ttyACM <br />
 portnum := COM.SysCom.SYS_COMPORT1<br />
 <br />
-
+<hr>
 sudo /etc/init.d/codesyscontrol restart<br />
